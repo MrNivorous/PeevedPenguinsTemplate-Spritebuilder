@@ -198,7 +198,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string>Gameplay</string>
+				<string></string>
 				<key>displayName</key>
 				<string>catapultarm</string>
 				<key>memberVarAssignmentName</key>
@@ -383,9 +383,9 @@
 						<key>children</key>
 						<array/>
 						<key>customClass</key>
-						<string>Gameplay</string>
+						<string></string>
 						<key>displayName</key>
-						<string>Gameplay</string>
+						<string>CCNode</string>
 						<key>memberVarAssignmentName</key>
 						<string>_levelnode</string>
 						<key>memberVarAssignmentType</key>
@@ -615,7 +615,7 @@
 				<key>displayName</key>
 				<string>CCPhysicsNode</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>_physicsNode</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -706,7 +706,7 @@
 		<key>displayName</key>
 		<string>CCNode</string>
 		<key>memberVarAssignmentName</key>
-		<string>_physicsNode</string>
+		<string></string>
 		<key>memberVarAssignmentType</key>
 		<integer>1</integer>
 		<key>properties</key>
